@@ -1,9 +1,5 @@
 # Ghostcord
 
-<p align="center">
-  <img src="[./browser/icon.png](https://i.ibb.co/WvnxFCvz/Chat-GPT-Image-19-fe-vr-2026-18-48-52-removebg-preview.png)" width="100" alt="Ghostcord Logo">
-</p>
-
 **Ghostcord** is an optimized fork of [Vencord](https://github.com/Vendicated/Vencord), focused on performance, stability, and new feature enhancements.
 
 Built on top of Vencord’s powerful foundation, Ghostcord delivers a cleaner, faster, and more customizable Discord experience.
